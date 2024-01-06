@@ -20,4 +20,6 @@ public static void multipl(int a , int b) {
 
 	//This is coming from GitHub
 
+	//edit the class from GitHub
+
 }
